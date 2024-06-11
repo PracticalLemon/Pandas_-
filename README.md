@@ -34,12 +34,7 @@ df = pd.DataFrame(data)
 ```
 print(df)
 ```
-      Name  Age         City
-0    Alice   24     New York
-1      Bob   27  Los Angeles
-2  Charlie   22      Chicago
-3    David   32      Houston
-4      Eva   28      Phoenix
+![](./dataframe 2024-06-11 143949.png)
 
 ## 3. DataFrame 조회
 pandas는 데이터를 쉽게 조회할 수 있는 다양한 메소드를 제공합니다.
