@@ -24,3 +24,9 @@ print(df.info())
 
 # 데이터 통계 요약 확인
 print(df.describe())
+
+# 'Name' 열만 선택
+print(df['Name'])
+
+# 여러 열 선택
+print(df[['Name', 'City']])
