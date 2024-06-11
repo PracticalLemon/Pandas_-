@@ -40,3 +40,16 @@ print(df)
 pandas는 데이터를 쉽게 조회할 수 있는 다양한 메소드를 제공합니다.
 
 예제 2: 데이터 조회
+```
+# 상위 5개의 데이터 조회 (기본값은 5)
+print(df.head())
+
+# 하위 5개의 데이터 조회
+print(df.tail())
+
+# DataFrame의 요약 정보 확인
+print(df.info())
+
+# 데이터 통계 요약 확인
+print(df.describe())
+```
