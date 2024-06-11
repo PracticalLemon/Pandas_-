@@ -34,7 +34,7 @@ df = pd.DataFrame(data)
 ```
 print(df)
 ```
-![결과](./dataframe 2024-06-11 143949.png)
+![결과](./dataframe43949.png)
 
 ## 3. DataFrame 조회
 pandas는 데이터를 쉽게 조회할 수 있는 다양한 메소드를 제공합니다.
